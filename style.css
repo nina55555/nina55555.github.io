@@ -148,11 +148,18 @@
     grid-row: 1/2;
     height: 20px;
     border-radius: 2px;
+    border: 2px dashed grey;
 }
 
 
 .dates1{
-    background: rgb(93, 3, 158);
+    /*background: rgb(93, 3, 158);*/
+    background-image: url(fler-papier.jpg);
+    object-fit: contain;
+    background-position: center;
+    background-position-x: 0px;
+    background-size: 75px;
+    background-repeat: no-repeat;
     grid-column: 1/2;
     margin-left: -10px;
     padding-top: 10px;
@@ -162,7 +169,7 @@
     font-size: 10px;
     font-weight: bold;
     text-align: center;
-    width: 13vw;
+    width: 75px;
 }
 
 
@@ -193,11 +200,18 @@
     grid-row: 3/4;
     height: 20px;
     border-radius: 2px;
+    border: 2px dashed grey;
 }
 
 
 .dates2{
-    background: rgb(93, 3, 158);
+    /*background: rgb(93, 3, 158);*/
+    background-image: url(fler-papier.jpg);
+    object-fit: contain;
+    background-position: center;
+    background-position-x: 0px;
+    background-size: 75px;
+    background-repeat: no-repeat;
     grid-column: 1/2;
     margin-left: -10px;
     grid-row: 4/5;
@@ -206,7 +220,7 @@
     font-size: 2px;
     font-weight: bold;
     text-align: center;
-    width: 13vw;
+    width: 75px;
     padding-top: 2px;
 }
 
@@ -231,12 +245,19 @@
     grid-row: 5/6;
     height: 20px;
     border-radius: 2px;
+    border: 2px dashed grey;
 }
 
 
 
 .dates3{
-    background: rgb(93, 3, 158);
+    /*background: rgb(93, 3, 158);*/
+    background-image: url(fler-papier.jpg);
+    object-fit: contain;
+    background-position: center;
+    background-position-x: 0px;
+    background-size: 75px;
+    background-repeat: no-repeat;
     grid-column: 1/2;
     margin-left: -10px;
     grid-row: 6/7;
@@ -246,7 +267,7 @@
     font-weight: bold;
     text-align: center;
     padding: 5px;
-    width: 13vw;
+    width: 75px;
 }
 
 
@@ -270,11 +291,18 @@
     grid-row: 7/8;
     height: 20px;
     border-radius: 2px;
+    border: 2px dashed grey;
 }
 
 
 .dates4{
-    background: rgb(93, 3, 158);
+    /*background: rgb(93, 3, 158);*/
+    background-image: url(fler-papier.jpg);
+    object-fit: contain;
+    background-position: center;
+    background-position-x: 0px;
+    background-size: 75px;
+    background-repeat: no-repeat;
     grid-column: 1/2;
     margin-left: -10px;
     padding-top: 5vh;
@@ -284,7 +312,7 @@
     font-size: 1px;
     font-weight: bold;
     text-align: center;
-    width: 13vw;
+    width: 75px;
 }
 
 
