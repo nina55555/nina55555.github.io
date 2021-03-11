@@ -276,8 +276,9 @@
     background: rgb(93, 3, 158);
     grid-column: 1/2;
     margin-left: -10px;
+    padding-top: 0.5vh;
     grid-row: 8/9;
-    max-height: 72px;
+    max-height: 92px;
     border-radius: 5px;
     font-size: 1px;
     font-weight: bold;
