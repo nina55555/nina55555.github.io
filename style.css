@@ -219,6 +219,7 @@
     flex-wrap: wrap;
     font-size: 6.5px;
     margin: 3px auto ;
+    padding-top: 2px;
     text-align: center;
 }
 
