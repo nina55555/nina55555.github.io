@@ -278,7 +278,7 @@
     margin-left: -10px;
     padding-top: 0.5vh;
     grid-row: 8/9;
-    height: 92px;
+    max-height: 92px;
     border-radius: 5px;
     font-size: 1px;
     font-weight: bold;
